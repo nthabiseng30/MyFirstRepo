@@ -1,3 +1,5 @@
+What I have learned from this course:
+
 So far in this course, I have learned how to use GitHub to create repositories, manage files, and track changes using commits. I have also learned how to work with branches, create pull requests, and collaborate with others through forking.
 
 Additionally, I now understand how to use Git commands to clone repositories, make changes locally, and push updates back to GitHub. These skills are important for version control and working in real-world development environments.
